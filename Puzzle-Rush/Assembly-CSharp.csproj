@@ -55,11 +55,16 @@
   <ItemGroup>
      <Compile Include="Assets\customCursor.cs" />
      <Compile Include="Assets\moveCandle.cs" />
+     <Compile Include="Assets\Scripts\closeChallengeScene1.cs" />
      <Compile Include="Assets\Scripts\CustomCursor.cs" />
+     <Compile Include="Assets\Scripts\hideButton.cs" />
      <Compile Include="Assets\Scripts\mouseMap.cs" />
      <Compile Include="Assets\Scripts\moveMap.cs" />
      <Compile Include="Assets\Scripts\movePlayer.cs" />
      <Compile Include="Assets\Scripts\moveScene1.cs" />
+     <Compile Include="Assets\Scripts\noTips.cs" />
+     <Compile Include="Assets\Scripts\scene1_challenge.cs" />
+     <Compile Include="Assets\Scripts\scene1_clue4.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/home/raphael/projects/Puzzle-Rush/Puzzle-Rush/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>

@@ -6,6 +6,6 @@ public class moveScene1 : MonoBehaviour {
 
 	public void Scene1()
 	{
-		SceneManager.LoadScene ("Scene1");
+		SceneManager.LoadScene ("Scene2");
 	}
 }

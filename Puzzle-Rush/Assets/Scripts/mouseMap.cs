@@ -9,6 +9,6 @@ public class mouseMap : MonoBehaviour {
 	public Vector2 hotSpot = Vector2.zero;
 
 	void Start () {
-		UnityEngine.Cursor.SetCursor (mouseMapIcon, hotSpot, curMode);
+		Cursor.SetCursor (mouseMapIcon, hotSpot, curMode);
 	}
 }
